@@ -1,0 +1,11 @@
+{
+  "name": "@3gksoftware/logger",
+  "version": "1.0.0",
+  "description": "A package for logging errors",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurent Lefèvre <l.lefevre@3gk-software.com> (https://3gk-software.com)",
+  "license": "ISC"
+}
